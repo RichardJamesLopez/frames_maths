@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# frames_maths
+farcaster frame with simple maths exercise for kids
+=======
 # Frames.js Starter Kit
 
 This is a boilerplate repo to get started quickly with `frames.js`
@@ -38,3 +42,4 @@ vercel
 ```
 
 more deployment links coming soon, PRs welcome!
+>>>>>>> d5ffb84 (initial)
