@@ -1,0 +1,13 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/examples/user-data/frames/route": "app/examples/user-data/frames/route.js",
+  "/examples/user-data/page": "app/examples/user-data/page.js",
+  "/page": "app/page.js",
+  "/frames/route": "app/frames/route.js",
+  "/debug/frame-action/route": "app/debug/frame-action/route.js",
+  "/debug/og/route": "app/debug/og/route.js",
+  "/debug/signer/route": "app/debug/signer/route.js",
+  "/debug/hub/v1/validateMessage/route": "app/debug/hub/v1/validateMessage/route.js",
+  "/debug/page": "app/debug/page.js",
+  "/debug/hub/[...hubPath]/route": "app/debug/hub/[...hubPath]/route.js"
+}
