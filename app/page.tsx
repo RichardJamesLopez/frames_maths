@@ -1,3 +1,15 @@
+/**
+ * Renders the Home page component.
+ *
+ * @param {NextServerPageProps} props - The Next.js server page props.
+ * @returns {React.ReactNode} The rendered Home page component.
+ */
+export default async function Home({
+  params,
+  searchParams,
+}: NextServerPageProps) {
+  // ... existing code ...
+}
 import {
   FrameButton,
   FrameContainer,
@@ -88,8 +100,7 @@ export default async function Home({
         state={state}
         previousFrame={previousFrame}
       >
-        {/* <FrameImage src="https://framesjs.org/og.png" /> */}
-        <FrameImage>
+        <FrameImage src="/countingFox.png">
           <div tw="w-full h-full bg-slate-700 text-white justify-center items-center">
             {frameMessage?.inputText ? frameMessage.inputText : "This is a (math) Test"}
           </div>
