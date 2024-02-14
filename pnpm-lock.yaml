@@ -8,9 +8,12 @@ dependencies:
   '@coinbase/onchainkit':
     specifier: ^0.6.1
     version: 0.6.1(react-dom@18.2.0)(react@18.2.0)(viem@2.7.8)
+<<<<<<< HEAD
   '@farcaster/core':
     specifier: latest
     version: 0.14.0(typescript@5.3.3)
+=======
+>>>>>>> d5ffb84 (initial)
   '@frame-js/frame':
     specifier: ^1.0.0
     version: 1.0.0
@@ -38,9 +41,12 @@ dependencies:
   swr:
     specifier: ^2.2.4
     version: 2.2.4(react@18.2.0)
+<<<<<<< HEAD
   viem:
     specifier: latest
     version: 2.7.8(typescript@5.3.3)
+=======
+>>>>>>> d5ffb84 (initial)
 
 devDependencies:
   '@types/node':
@@ -160,6 +166,7 @@ packages:
       - zod
     dev: false
 
+<<<<<<< HEAD
   /@farcaster/core@0.14.0(typescript@5.3.3):
     resolution: {integrity: sha512-2K0hxvToytt37NGC0yrOOS09FC4FSZjdqmdr4/2ZGGTVaG0VXGOUxZGOMZSsm9wkBIvGHQ3s/nCFYiQrH2ZhZQ==}
     dependencies:
@@ -177,6 +184,8 @@ packages:
       - zod
     dev: false
 
+=======
+>>>>>>> d5ffb84 (initial)
   /@frame-js/frame@1.0.0:
     resolution: {integrity: sha512-vEWRyTGuOywkG2LHJmOVi/HLx+Ax5kR5QlJsbzxbTvitKnwl6o5oGuIpUJhTl7FjNgHDd8sK2LFc78A/jBgJyA==}
     dev: false
@@ -405,14 +414,22 @@ packages:
     resolution: {integrity: sha512-N1ZhksgwD3OBlwTv3R6KFEcPojl/W4ElJOeCZdi+vuI5QmTFwLq3OFf2zd2ROpKvxFdgZ6hUpb0dx9bVNEwYCA==}
     dependencies:
       '@noble/curves': 1.2.0
+<<<<<<< HEAD
       '@noble/hashes': 1.3.3
+=======
+      '@noble/hashes': 1.3.2
+>>>>>>> d5ffb84 (initial)
       '@scure/base': 1.1.5
     dev: false
 
   /@scure/bip39@1.2.1:
     resolution: {integrity: sha512-Z3/Fsz1yr904dduJD0NpiyRHhRYHdcnyh73FZWiV+/qhWi83wNJ3NWolYqCEN+ZWsUz2TWwajJggcRE9r1zUYg==}
     dependencies:
+<<<<<<< HEAD
       '@noble/hashes': 1.3.3
+=======
+      '@noble/hashes': 1.3.2
+>>>>>>> d5ffb84 (initial)
       '@scure/base': 1.1.5
     dev: false
 

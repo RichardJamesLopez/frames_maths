@@ -88,8 +88,8 @@ export default async function Home({
         state={state}
         previousFrame={previousFrame}
       >
-        {/* <FrameImage src="https://framesjs.org/og.png" /> */}
-        <FrameImage>
+        
+        <FrameImage src="/countingFox.png">
           <div tw="w-full h-full bg-slate-700 text-white justify-center items-center">
             {frameMessage?.inputText ? frameMessage.inputText : "This is a (math) Test"}
           </div>
