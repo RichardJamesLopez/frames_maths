@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # frames_maths
 farcaster frame with simple maths exercise for kids
-=======
-=======
->>>>>>> d5ffb84 (initial)
+
 # Frames.js Starter Kit
 
 This is a boilerplate repo to get started quickly with `frames.js`
@@ -43,9 +40,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ```bash
 vercel
 ```
-
-more deployment links coming soon, PRs welcome!
-<<<<<<< HEAD
->>>>>>> d5ffb84 (initial)
-=======
->>>>>>> d5ffb84 (initial)
